@@ -1,11 +1,21 @@
 {
-  "short_name": "Edge Links",
+  "short_name": "CF Golf",
   "name": "Cloudflare Multiplayer 2D Golf Demo",
   "icons": [
     {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "16x16 32x32 48x48",
       "type": "image/x-icon"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
     },
     {
       "src": "logo192.png",
@@ -20,6 +30,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#064e3b",
+  "theme_color": "#f97316",
   "background_color": "#fff7ed"
 }

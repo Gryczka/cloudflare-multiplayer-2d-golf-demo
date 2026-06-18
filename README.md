@@ -8,7 +8,7 @@
 
 Fallback demo URL: [cloudflare-multiplayer-golf-demo.dwarven.workers.dev](https://cloudflare-multiplayer-golf-demo.dwarven.workers.dev/)
 
-![Edge Links multiplayer mini-golf game page](docs/screenshots/demo.png)
+![Cloudflare Multiplayer Golf game page](docs/screenshots/demo.png)
 
 ## Table of Contents
 
