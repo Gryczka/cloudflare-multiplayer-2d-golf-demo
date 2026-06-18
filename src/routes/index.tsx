@@ -37,7 +37,7 @@ function Home() {
               Multiplayer mini-golf synchronized at the edge.
             </h1>
             <p className="mt-6 max-w-2xl text-lg font-semibold leading-8 text-emerald-900/75">
-              Edge Links uses one Cloudflare Durable Object per room to coordinate players,
+              This demo uses one Cloudflare Durable Object per room to coordinate players,
               spectators, chat, cursors, reactions, scoring, and authoritative shot physics.
             </p>
             <div className="mt-8 grid max-w-2xl gap-3 sm:grid-cols-3">

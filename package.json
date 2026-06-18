@@ -9,7 +9,8 @@
     "preview": "npm run build && vite preview",
     "test": "vitest run",
     "deploy": "npm run build && wrangler deploy",
-    "cf-typegen": "wrangler types"
+    "cf-typegen": "wrangler types",
+    "generate-favicons": "node scripts/generate-favicons.mjs"
   },
   "dependencies": {
     "@tanstack/react-router": "latest",
@@ -33,6 +34,7 @@
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^6.0.1",
     "jsdom": "^28.1.0",
+    "sharp": "^0.34.5",
     "typescript": "^6.0.2",
     "vite": "^8.0.0",
     "vitest": "^4.1.5",

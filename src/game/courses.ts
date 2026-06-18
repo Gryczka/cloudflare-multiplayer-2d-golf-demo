@@ -5,7 +5,7 @@ export const DEFAULT_COURSE_ID = 'edge-links'
 /** Demo course used by every room in this reference app. */
 export const EDGE_LINKS: Course = {
   id: DEFAULT_COURSE_ID,
-  name: 'Edge Links',
+  name: 'Durable Links',
   holes: [
     {
       id: 'edge-links-1',
