@@ -1,5 +1,6 @@
 # Cloudflare Multiplayer 2D Golf Demo
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Gryczka/cloudflare-multiplayer-2d-golf-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > A real-time 2D mini-golf demo showing how Cloudflare Durable Objects can coordinate authoritative multiplayer game state at the edge.
