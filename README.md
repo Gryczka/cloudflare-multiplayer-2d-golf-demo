@@ -28,6 +28,8 @@ Fallback demo URL: [cloudflare-multiplayer-golf-demo.dwarven.workers.dev](https:
 
 ## Architecture
 
+![Multiplayer Mini Golf Cloudflare architecture](docs/architecture-tile-dark.png)
+
 ```mermaid
 graph TD
   Browser[Browser Clients\nReact + Canvas] -->|HTTPS pages| Worker[Cloudflare Worker\nsrc/server.ts]
